@@ -1,7 +1,7 @@
 # Merjenje-razdalje-z-ultrazvo-nim-senzorjem
 
 Cilj naloge je bil, narediti vezje, kjer uporabiva ultrazvočni senzor za merjenje razdalje.
-Naprava bi merila koliko je predmet oddaljen od senzorja, meritve pa bi zajemala preko ultrazvočnega senzorja in rezultate izpisovala na LCD zaslonu.
+Naprava meri koliko je predmet oddaljen od senzorja(meri razdaljo), meritve zajema preko ultrazvočnega senzorja in rezultate izpisuje na LCD zaslonu(npr.10cm).
 
 KOSOVNICA UPORABLJENIH ELEMENTOV:
 -potenciometer 10k
